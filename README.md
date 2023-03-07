@@ -23,7 +23,7 @@
 This project was developed using the following technologies:
 
 -   [Android](https://www.android.com/intl/pt-BR_br/)
--   [Kotlin] (https://kotlinlang.org/)
+-   [Kotlin](https://kotlinlang.org/)
 
 ## 🚀 Getting started
 
@@ -43,7 +43,7 @@ $ Run the project via Android Studio
 
 ## 💻 Project
 
-App to always remember to water your plants 🌱
+App to motivate physcal activities to collaborators that work from home
 
 ## 🔖 Layout
 
