@@ -48,7 +48,7 @@ App to always remember to water your plants 🌱
 ## 🔖 Layout
 
 <div align="center">
-    <img align="center" alt="esg" title="PlantManager" src="assets/logo.svg" />
+    <img align="center" alt="esg" title="ESG" src="readme/layout.png" />
 </div>
 
 ## 📝 License
