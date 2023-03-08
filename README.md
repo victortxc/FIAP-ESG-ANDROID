@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" alt="esg" title="PlantManager" src="assets/logo.svg" />
+    <img align="center" alt="esg" title="PlantManager" src="app/src/main/res/drawable/logo_retangular.png" />
 </div>
 
 <p align="center">
@@ -11,10 +11,6 @@
 </p>
 
 <br>
-
-<div align="center">
-  <img alt="EsgPreview" src="assets/plantmanager-preview.png">
-</div>
 
 ---
 
