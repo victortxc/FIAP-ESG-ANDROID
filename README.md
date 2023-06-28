@@ -43,9 +43,9 @@ App to motivate physcal activities to collaborators that work from home
 
 ## 🔖 Layout
 
-<div align="center" style="display: flex;">
+<div>
     <img align="center" alt="esg" title="ESG" src="readme/layout.png" style="width: 50%;"/>
-<img align="center" alt="esg" title="ESG" src="readme/layout2.png" style="width: 50%;" />
+    <img align="center" alt="esg" title="ESG" src="readme/layout2.png" style="width: 50%;" />
 </div>
 
 ## 📝 License
