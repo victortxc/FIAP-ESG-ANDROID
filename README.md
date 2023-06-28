@@ -1,5 +1,5 @@
 <div align="center">
-    <img align="center" alt="esg" title="PlantManager" src="app/src/main/res/drawable/logo_retangular.png" />
+    <img align="center" alt="esg" title="ESG" src="app/src/main/res/drawable/logo_retangular.png" />
 </div>
 
 <p align="center">
@@ -45,6 +45,7 @@ App to motivate physcal activities to collaborators that work from home
 
 <div align="center">
     <img align="center" alt="esg" title="ESG" src="readme/layout.png" />
+<img align="center" alt="esg" title="ESG" src="readme/layout2.png" />
 </div>
 
 ## 📝 License
